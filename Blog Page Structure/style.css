@@ -1,0 +1,15 @@
+
+p{
+    color: dimgrey;
+}
+.secondlist{
+    text-transform: uppercase;
+}
+
+.cursive{
+    font-family: cursive;
+}
+
+#blog-title:hover{
+    color: darkviolet;
+}
